@@ -1,12 +1,12 @@
-package TaskPacage.gui;
+package TaskPackage.gui;
 
-import TaskPacage.Realization;
+import TaskPackage.Realization;
 import com.intellij.uiDesigner.core.GridConstraints;
 import com.intellij.uiDesigner.core.GridLayoutManager;
 import com.intellij.uiDesigner.core.Spacer;
-import TaskPacage.gui.util.ArrayUtils;
-import TaskPacage.gui.util.JTableUtils;
-import TaskPacage.gui.util.SwingUtils;
+import TaskPackage.gui.util.ArrayUtils;
+import TaskPackage.gui.util.JTableUtils;
+import TaskPackage.gui.util.SwingUtils;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileFilter;

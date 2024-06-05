@@ -1,4 +1,4 @@
-package TaskPacage;
+package TaskPackage;
 
 public class MyQueue<E> implements NullQueue<E>{
     private Node head;

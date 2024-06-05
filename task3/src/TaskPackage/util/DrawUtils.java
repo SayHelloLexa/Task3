@@ -1,4 +1,4 @@
-package TaskPacage.gui.util;
+package TaskPackage.gui.util;
 
 import java.awt.*;
 import java.awt.font.FontRenderContext;

@@ -1,4 +1,4 @@
-package TaskPacage.gui.util;
+package TaskPackage.gui.util;
 
 import javax.swing.*;
 import javax.swing.plaf.FontUIResource;
